@@ -1,0 +1,9 @@
+{
+  "name": "Gloom",
+  "version": "@VERSION@",
+  "title": "Gloom",
+  "author": "Afforess",
+  "homepage": "http://afforess.com",
+  "description": "Into the Darkness",
+  "dependencies": ["base >= 0.12.19"]
+}
